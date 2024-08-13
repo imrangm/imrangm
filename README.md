@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imran Mustafa</h1>
 <h3 align="center">A Software developer and IT trainer based in Abu Dhabi, UAE</h3>
 
-🔭 Currently, I’m focused on developing the **ATHR app** and exploring innovative solutions.
+🔭 Currently, I’m focused on developing the **ATHR app**, which aims to create social impact by connecting youth with opportunities.
 
 🌱 I’m actively learning about **Web and App Development**, as well as **AI Engineering** to stay on the cutting edge of technology.
 
