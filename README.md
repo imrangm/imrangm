@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Mustafa</h1>
-<h3 align="center">A passionate software developer and trainer based in Abu Dhabi, UAE</h3>
+<h3 align="center">A Passionate Software Developer and Trainer based in Abu Dhabi, UAE</h3>
 
 🔭 Currently, I’m focused on building my portfolio and working on exciting projects.
 
