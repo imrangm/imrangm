@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imran Mustafa</h1>
-<h3 align="center">Full Stack Developer specializing in Data & AI</h3>
+<h3 align="center">Full Stack Developer | AI & Data Specialist</h3>
 
 <p align="center">
   <i>Building modern web applications and AI solutions, with a background in technical training.</i>
